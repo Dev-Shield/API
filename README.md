@@ -12,4 +12,4 @@ récupérer le nom et les photos
 de toutes les variétés plantes, 
 disponibles en France !
 
-<Bl>Open Source</B>
+<B>Open source</B>
