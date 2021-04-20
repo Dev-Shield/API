@@ -16,7 +16,7 @@ Cet seconde API aura pour
 but de donner tout les noms des variétés
 d'arbres ainsi que leurs photo 
 
-<h1>Seule</h1> les arbre disponibles en *France
+<B>seule</B> les arbre disponibles en *France
 sont concernés pour 
 le moment par cet api mais les 
 contributions seront possibles prochainement.
