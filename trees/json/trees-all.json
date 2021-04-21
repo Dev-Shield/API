@@ -3,12 +3,318 @@
     "name-tree-fr": "Ailante",
     "name-scientist": "Abelia x grandiflora",
     "picture-tree": "https://raw.githubusercontent.com/Dev-Shield/API/main/trees/json/pictures/Ailante.png",
-    "description-fr": "Ailanthus altissima, en français Ailante glanduleux, Ailante, Faux vernis du Japon, Frêne puant ou Vernis de Chine, est une espèce d'arbres à feuilles caduques de la famille des Simaroubaceae. Il possède de grandes feuilles composées, une écorce lisse et grise et a pour fruits des samares. Source : Wikipedia"
+    "description-fr": "Ailanthus altissima, en français Ailante glanduleux, Ailante, Faux vernis du Japon, Frêne puant ou Vernis de Chine, est une espèce d\u0027arbres à feuilles caduques de la famille des Simaroubaceae. Il possède de grandes feuilles composées, une écorce lisse et grise et a pour fruits des samares.\nSource : Wikipedia"
   },
   "Alisier-blanc": {
     "name-tree-fr": "Alisier blanc",
     "name-scientist": "Sorbus aria",
     "picture-tree": "https://raw.githubusercontent.com/Dev-Shield/API/main/trees/json/pictures/Alisier-blanc.png",
-    "description-fr": "L'Alisier blanc, Alisier de Bourgogne, Alouchier ou Sorbier des Alpes (Sorbus aria) est un arbre de la famille des Rosacées originaire du sud de l'Europe. Source : Wikipedia"
+    "description-fr": "L\u0027Alisier blanc, Alisier de Bourgogne, Alouchier ou Sorbier des Alpes (Sorbus aria) est un arbre de la famille des Rosacées originaire du sud de l\u0027Europe.\nSource : Wikipedia"
+  },
+  "Alisier des bois": {
+    "name-tree-fr": "Alisier des bois",
+    "name-scientist": "Sorbus heilingensis",
+    "picture-tree": "https://raw.githubusercontent.com/Dev-Shield/API/main/trees/json/pictures/Alisier-des-bois.png",
+    "description-fr": "L\u0027Alisier torminal, Alisier des bois ou Sorbier torminal (Sorbus torminalis L. Crantz) est un arbre originaire d\u0027Europe, d\u0027Afrique du Nord et d\u0027Asie Mineure, appartenant au genre des sorbiers, dans la sous-famille des Maloideae de la famille des Rosacées.\nSource : Wikipedia"
+  },
+  "Bientôt Disponible": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy49": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy48": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy47": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy46": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy45": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy44": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy43": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy42": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy41": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy40": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy39": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy38": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy37": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy36": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy35": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy34": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy33": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy32": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy31": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy30": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy29": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy28": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy27": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy26": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy25": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy24": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy23": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy22": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy21": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy20": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy19": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy18": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy17": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy16": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy15": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy14": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy13": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy12": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy11": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy10": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy9": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy8": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy7": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy6": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy5": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy4": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy3": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy2": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
+  },
+  "Bientôt Disponible - Copy1": {
+    "name-tree-fr": "Bientôt Disponible",
+    "name-scientist": "Bientôt Disponible",
+    "picture-tree": "Bientôt Disponible",
+    "description-fr": "Bientôt Disponible"
   }
 }
