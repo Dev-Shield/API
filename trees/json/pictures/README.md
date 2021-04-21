@@ -15,4 +15,5 @@ Wikipedia</b>
      width="250"
      height="300">
 
-<b> Creative Commons Attribution-Share Alike 3.0 / GNU Free Documentation License, version 1.2 or later Wikipedia</b>
+<b> Creative Commons Attribution-Share Alike 3.0 / GNU Free Documentation License, version 1.2 or later 
+Wikipedia</b>
