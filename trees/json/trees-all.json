@@ -3,12 +3,12 @@
     "name-tree-fr": "Ailante",
     "name-scientist": "Abelia x grandiflora",
     "picture-tree": "https://raw.githubusercontent.com/Dev-Shield/API/main/trees/json/pictures/Ailante.png",
-    "description-fr": "Ailanthus altissima, en français Ailante glanduleux, Ailante, Faux vernis du Japon, Frêne puant ou Vernis de Chine, est une espèce d\u0027arbres à feuilles caduques de la famille des Simaroubaceae. Il possède de grandes feuilles composées, une écorce lisse et grise et a pour fruits des samares.\nSource : Wikipedia"
+    "description-fr": "Ailanthus altissima, en français Ailante glanduleux, Ailante, Faux vernis du Japon, Frêne puant ou Vernis de Chine, est une espèce d'arbres à feuilles caduques de la famille des Simaroubaceae. Il possède de grandes feuilles composées, une écorce lisse et grise et a pour fruits des samares. Source : Wikipedia"
   },
   "Alisier-blanc": {
     "name-tree-fr": "Alisier blanc",
     "name-scientist": "Sorbus aria",
     "picture-tree": "https://raw.githubusercontent.com/Dev-Shield/API/main/trees/json/pictures/Alisier-blanc.png",
-    "description-fr": "L\u0027Alisier blanc, Alisier de Bourgogne, Alouchier ou Sorbier des Alpes (Sorbus aria) est un arbre de la famille des Rosacées originaire du sud de l\u0027Europe.\nSource : Wikipedia"
+    "description-fr": "L'Alisier blanc, Alisier de Bourgogne, Alouchier ou Sorbier des Alpes (Sorbus aria) est un arbre de la famille des Rosacées originaire du sud de l'Europe. Source : Wikipedia"
   }
 }
